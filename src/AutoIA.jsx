@@ -558,4 +558,3 @@ const styles = {
     textAlign: "center", marginTop: 60,
   },
 };
-
